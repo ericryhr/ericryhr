@@ -1,0 +1,2 @@
+- Estudiant d'Enginyeria Informàtica de la Universitat Politècnica de Catalunya
+- Fan de construir projectes amb Unity i intentant aprendre una mica de tot
